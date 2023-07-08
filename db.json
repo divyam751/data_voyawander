@@ -260,13 +260,6 @@
       "email": "admin@voyawander.com",
       "password": "admin",
       "id": 1
-    },
-    {
-      "firstName": "Shyam",
-      "lastName": "Singh",
-      "email": "singh.shyam@gmail.com",
-      "password": "1234",
-      "id": 2
     }
   ],
   "messages": [
